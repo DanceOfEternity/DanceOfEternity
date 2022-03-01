@@ -1,4 +1,4 @@
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
+<img src="https://cdn.discordapp.com/avatars/812793948623208549/d52d14f37597f41ab37caf3c3de46117.webp?size=180" alt="ALLAH BELANIII VERSIN">
 
 ## Lua Scripter & Node.JS
 
