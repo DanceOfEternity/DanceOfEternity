@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/avatars/812793948623208549/d52d14f37597f41ab37caf3c3de46117.webp?size=80" alt="cdn.discordapp.com">
+<img src="https://c.tenor.com/46P1l7LAHwAAAAAM/death-sworn.gif" alt="cdn.discordapp.com">
 
 ## Developer
 
